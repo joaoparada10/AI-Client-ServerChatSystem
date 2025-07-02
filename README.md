@@ -1,4 +1,4 @@
-# Assignment 2: Client-Server Chat System
+# Client-Server Chat System
 
 **Group T06G10** members:
 
@@ -30,7 +30,7 @@ This project implements a *client-server chat system using TCP and SSL*, develop
 
 ## Build & Run
 
-From project root (`assign2`):
+From project root:
 
 ### Windows (Command Prompt)
 
